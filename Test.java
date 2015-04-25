@@ -11,12 +11,12 @@ public class Test {
 		try {
 			run();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		
 			e.printStackTrace();
 		}
 
 	}
-
+// ein Kommentar
 	public static void run() throws IOException {
 		
 		String csvFile = "./namen.csv/";
